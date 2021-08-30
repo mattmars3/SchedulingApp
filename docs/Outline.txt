@@ -1,0 +1,9 @@
+--- Scheduler Plan ---
+    Project Outline
+----------------------
+Create backend to handle activities, etc
+  -Write in node.js
+Create frontend to interface and call backend scripts
+  -Use angular for this
+Set up MySQL database for storing information, passwords, etc
+Set up a web server to store all of this
