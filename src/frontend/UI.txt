@@ -1,0 +1,11 @@
+UI Ideas
+- Week Grid view
+- Create blocks that cover space in a vertical timeline
+- 3 -
+- 3.5 -    +-------------+
+- 4 -      |   eat food  |
+- 4.5 -    +-------------+
+- 5 -
+- create a homework object that is searchable
+- homework view
+- all activities view
