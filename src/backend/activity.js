@@ -29,25 +29,8 @@ class Schedule {
         this.activityList = [];
     }
 
-    returnAllActivities() {
-        for (let activity of this.activityList) {return activity.name;}
+    searchByName(name) {
+        return this.activityList.filter((x) => x == name);
     }
 
-    getActivityByName(activityName) {
-        for (let activity of this.activityList) {
-            if (activity.name == activityName) {
-                return activity
-            }
-        }
-    }
-    getActivityByStartTime() {
-
-    }
-
-    getActivityByEndTime() {
-
-    }
-    returnScheduledActivity() {
-
-    }
 }

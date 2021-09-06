@@ -1,1 +1,21 @@
-asdf
+Sculped
+- KAT
+    - High Profile
+    - Spherical Top
+
+Uniform
+- XDA
+    - Medium Profile
+    - More contact surface
+- DSA
+    - Medium Profile
+    - Spherical Top
+- KAM
+    - KAT without scuplting
+- OSA
+    -
+
+
+Switches and Care = $87
+Keyboard, PCB, and Plate = $
+Keycaps
